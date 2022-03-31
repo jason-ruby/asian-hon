@@ -19,7 +19,7 @@
 -->
 
 [![Issues][issues-shield]](https://github.com/jason-ruby/asian-hon/issues)
-[![MIT License][license-shield]](./LICENSE.txt)
+[![MIT License][license-shield]](LICENSE.txt)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/jaruby/)
 
 <!-- PROJECT LOGO -->
