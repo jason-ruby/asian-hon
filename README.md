@@ -29,7 +29,7 @@
     <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Asian Hon</h3>
 
   <p align="center">
     project_description
@@ -77,27 +77,19 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a
-search and replace with your text editor for the following: `jason-ruby`,
-`asian-hon`, `linkedin_username`, `email_client`, `jaruby@me.com`, `Asian Hon`,
-`project_description`
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
-- [HTML5](https://nextjs.org/)
-- [CSS3](https://reactjs.org/)
-- [JavaScript](https://vuejs.org/)
+- [HTML5](https://html.spec.whatwg.org/)
+- [CSS3](https://www.w3.org/TR/CSS/)
+- [JavaScript](https://www.ecma-international.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project
-locally. To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
@@ -210,5 +202,5 @@ Project Link:
 [license-url]: https://github.com/jason-ruby/asian-hon/blob/master/LICENSE.txt
 [linkedin-shield]:
 	https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/jaruby
 [product-screenshot]: images/screenshot.png
